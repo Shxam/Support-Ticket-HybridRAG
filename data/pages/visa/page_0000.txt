@@ -1,0 +1,33 @@
+URL: https://www.visa.co.in/support/consumer/dispute-resolution
+DOMAIN: visa
+================================================================================
+
+Visa Card Disputes and Chargebacks
+
+Merchant Disputes:
+
+If a merchant sent the wrong product or is unresponsive:
+- First, attempt to resolve directly with the merchant
+- Visa does not directly process refunds - your card issuer does
+- Contact your card-issuing bank to file a dispute
+- Provide order details, communication records, and evidence
+- Chargeback process takes 45-90 days
+
+How to Dispute a Charge:
+1. Contact your card-issuing bank (number on back of card)
+2. Explain the issue and provide documentation
+3. Bank will investigate and may issue provisional credit
+4. Final resolution depends on merchant response
+5. Keep all receipts and communication records
+
+Visa's Role:
+- Visa provides the payment network
+- Your bank (card issuer) handles disputes and refunds
+- We cannot ban merchants or process refunds directly
+- Merchants are managed by their acquiring banks
+
+Fraud and Unauthorized Charges:
+- Report immediately to your card issuer
+- Zero liability protection for unauthorized transactions
+- Card will be blocked and replaced
+- Provisional credit typically issued within 10 business days

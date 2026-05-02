@@ -1,0 +1,39 @@
+URL: https://support.claude.com/en/articles/security-privacy
+DOMAIN: claude
+================================================================================
+
+Security, Privacy, and Data Usage
+
+Security Vulnerability Reporting:
+
+If you've found a security vulnerability:
+- Report to security@anthropic.com
+- Include detailed steps to reproduce
+- Do not publicly disclose until we've addressed it
+- We have a responsible disclosure policy
+- Bug bounty program details at anthropic.com/security
+
+Data Privacy and Usage:
+
+Training Data Opt-in:
+- If you've opted in to allow data usage for model improvement
+- Data is retained for up to 2 years for training purposes
+- You can opt out anytime in Settings → Privacy
+- Opting out stops future data collection
+- Previously collected data follows our retention policy
+
+Web Crawling:
+- To prevent Claude from crawling your website, use robots.txt
+- Add: User-agent: ClaudeBot, Disallow: /
+- Changes take effect within 24-48 hours
+- For immediate removal, contact crawling@anthropic.com
+- Provide your domain name and verification of ownership
+
+LTI Integration for Education:
+
+For professors and educational institutions:
+- LTI (Learning Tools Interoperability) keys available for Enterprise plans
+- Contact education@anthropic.com for setup
+- Requires institutional email verification
+- Setup takes 3-5 business days
+- Student accounts managed through your LMS

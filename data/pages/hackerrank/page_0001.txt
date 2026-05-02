@@ -1,0 +1,30 @@
+URL: https://support.hackerrank.com/hc/en-us/articles/technical-issues
+DOMAIN: hackerrank
+================================================================================
+
+Technical Issues and Troubleshooting
+
+Submission Problems:
+- If submissions are not working, clear your browser cache
+- Try using a different browser (Chrome, Firefox recommended)
+- Disable browser extensions that might interfere
+- Check if your code has syntax errors
+
+Apply Tab Not Visible:
+- Ensure you're logged in to your account
+- Check if you meet the eligibility criteria for the job
+- Some positions may have closed applications
+- Try refreshing the page or logging out and back in
+
+Compatibility Check Issues:
+- Zoom connectivity is required for proctored tests
+- Ensure Zoom is installed and updated to the latest version
+- Check firewall settings that might block Zoom
+- Grant camera and microphone permissions
+- System requirements: Windows 10+, macOS 10.13+, stable internet (5 Mbps+)
+
+Test Rescheduling:
+- Candidates cannot reschedule tests directly
+- Contact the recruiter or company that sent you the test
+- HackerRank support cannot reschedule on behalf of companies
+- Provide your test link and company name when contacting the recruiter

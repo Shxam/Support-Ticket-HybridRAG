@@ -1,0 +1,27 @@
+URL: https://support.hackerrank.com/hc/en-us/articles/account-access
+DOMAIN: hackerrank
+================================================================================
+
+Account Access and Permissions
+
+If you've lost access to your HackerRank account, here are the steps to regain access:
+
+1. Password Reset: Use the "Forgot Password" link on the login page
+2. Email Verification: Check your email for verification links
+3. Account Recovery: Contact support@hackerrank.com with your account details
+
+For workspace access issues:
+- Only workspace owners and admins can manage user seats
+- If your seat was removed, contact your workspace admin
+- We cannot restore access without admin approval
+
+Test and Assessment Access:
+- Candidates cannot request score changes or re-evaluation
+- Test results are final and determined by the platform's automated grading
+- Recruiters make hiring decisions based on test scores
+- HackerRank does not intervene in hiring decisions
+
+Mock Interview Issues:
+- If mock interviews stop unexpectedly, check your internet connection
+- Refunds are processed within 5-7 business days for technical failures
+- Contact support with session ID for refund requests

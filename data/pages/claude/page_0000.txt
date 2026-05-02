@@ -1,0 +1,30 @@
+URL: https://support.claude.com/en/articles/workspace-access
+DOMAIN: claude
+================================================================================
+
+Claude Workspace Access and Permissions
+
+Workspace Access Issues:
+
+If you've lost access to a Claude team workspace:
+- Only workspace owners and admins can restore access
+- Contact your workspace admin or IT department
+- Anthropic support cannot override admin decisions
+- If you believe this is an error, ask your admin to re-invite you
+
+Workspace Roles:
+- Owner: Full control, billing, user management
+- Admin: User management, settings (no billing access)
+- Member: Standard access, no administrative privileges
+
+If your seat was removed:
+- This is an administrative action by your organization
+- We cannot restore access without admin approval
+- Contact your IT admin or workspace owner
+- Provide your email and workspace name
+
+Service Availability:
+- If Claude is not responding, check status.anthropic.com
+- API failures may be due to rate limits or quota exceeded
+- Check your API key validity and permissions
+- For AWS Bedrock integration issues, verify IAM permissions and region availability

@@ -1,0 +1,38 @@
+URL: https://support.hackerrank.com/hc/en-us/articles/enterprise-features
+DOMAIN: hackerrank
+================================================================================
+
+Enterprise and Hiring Features
+
+For Companies Using HackerRank for Hiring:
+
+Security and Compliance:
+- HackerRank is SOC 2 Type II certified
+- GDPR and CCPA compliant
+- Security questionnaires can be requested through your account manager
+- InfoSec documentation available in the Enterprise portal
+- Contact enterprise@hackerrank.com for compliance forms
+
+User Management:
+- Admins can add/remove interviewers from the Team Settings page
+- Click on the user's name → three dots menu → "Remove User"
+- Removed users lose access immediately
+- Billing adjusts automatically for removed seats
+
+Subscription Management:
+- To pause subscription, contact your account manager
+- Pausing stops billing but retains your data
+- Reactivation can be done anytime
+- No penalties for pausing during low hiring periods
+
+Interview Platform Features:
+- Inactivity timeout: 30 minutes for candidates, 45 minutes for interviewers
+- Timeout can be extended in Settings → Interview Configuration
+- Screen sharing does not count as activity
+- Interviewers should periodically interact with the platform to avoid timeout
+
+Certificates:
+- Certificate names are pulled from candidate account profiles
+- To update: candidate must update their profile name
+- Contact support@hackerrank.com with assessment ID for manual updates
+- Allow 24-48 hours for certificate regeneration
